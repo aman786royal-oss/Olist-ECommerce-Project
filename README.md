@@ -28,6 +28,15 @@ The underlying data pipeline and quality checks were executed using structured S
 * **Core & Calculated DAX Measures:** Engineered robust calculated columns and advanced DAX aggregations—including complex time-to-delivery metrics (`Delivery_Days`), revenue realization formulas (`SUMX`, `RELATED`), and dynamic filtering measures—to accurately calculate core KPIs like Total Revenue, Order Volume, and Average Order Value (AOV).
 * **Executive-Ready 16:9 Dashboard UI:** Designed a high-impact, custom-styled 16:9 interactive interface that transforms complex supply chain bottlenecks, revenue leakage, and customer satisfaction correlations into clear, actionable business insights.
 
+### Dashboard Previews
+
+![Page 1](page1.jpg)
+![Page 2](page2.jpg)
+![Page 3](page3.jpg)
+![Page 4](page4.jpg)
+![Page 5](page5.jpg)
+
+
 ---
 
 ## 📂 Repository Structure
@@ -37,14 +46,5 @@ The underlying data pipeline and quality checks were executed using structured S
 ├── 📄 Ecommerce Dashboard.pbix        # Power BI Master Model & Dashboard
 ├── 📄 Ecommerce Dashboard.pdf         # High-Resolution Portfolio Export Report
 └── 📄 Ecommerce Dashboard.sql         # SQL Data Validation, Duplicates & KPI Scripts
-
-### Dashboard Previews
-
-![Page 1](page1.jpg)
-![Page 2](page2.jpg)
-![Page 3](page3.jpg)
-![Page 4](page4.jpg)
-![Page 5](page5.jpg)
-
 
 
