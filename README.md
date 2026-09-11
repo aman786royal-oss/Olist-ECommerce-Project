@@ -37,3 +37,15 @@ The underlying data pipeline and quality checks were executed using structured S
 ├── 📄 dashboard.pbix              # Power BI Master Model & Dashboard
 ├── 📄 Ecommerce Dashboard.pdf     # High-Resolution Portfolio Export Report[cite: 1]
 └── 📄 Ecommerce Dashboard.sql     # SQL Data Validation, Duplicates & KPI Scripts
+
+### Dashboard Previews
+
+![Page 1](Ecommerce Dashboard_page-0001.jpg)
+![Page 2](Ecommerce Dashboard_page-0002.jpg)
+![Page 3](Ecommerce Dashboard_page-0003.jpg)
+![Page 4](Ecommerce Dashboard_page-0004.jpg)
+![Page 5](Ecommerce Dashboard_page-0005.jpg)
+
+
+
+
