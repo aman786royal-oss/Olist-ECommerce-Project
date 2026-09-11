@@ -40,11 +40,11 @@ The underlying data pipeline and quality checks were executed using structured S
 
 ### Dashboard Previews
 
-![Page 1](Ecommerce Dashboard_page-0001.jpg)
-![Page 2](Ecommerce Dashboard_page-0002.jpg)
-![Page 3](Ecommerce Dashboard_page-0003.jpg)
-![Page 4](Ecommerce Dashboard_page-0004.jpg)
-![Page 5](Ecommerce Dashboard_page-0005.jpg)
+![Page 1](Ecommerce%20Dashboard_page-0001.jpg)
+![Page 2](Ecommerce%20Dashboard_page-0002.jpg)
+![Page 3](Ecommerce%20Dashboard_page-0003.jpg)
+![Page 4](Ecommerce%20Dashboard_page-0004.jpg)
+![Page 5](Ecommerce%20Dashboard_page-0005.jpg)
 
 
 
